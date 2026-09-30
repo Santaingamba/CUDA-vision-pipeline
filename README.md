@@ -227,6 +227,10 @@ CUDA-vision-pipeline/
 
 The included sample video (`examples/sample_video.mp4`) is sourced from [Pexels](https://www.pexels.com/video/vehicle-on-highway-with-dash-cam-4608285/) (free license).
 
+## Author
+
+**Chaphamayum Santaingamba**
+
 ## Known Limitations
 
 - Telemetry networking uses POSIX sockets — requires Linux or WSL
